@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Welcome to the Wedding Planner App!</Text>
-    </View>
+    </View> 
   );
 }
 
